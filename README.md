@@ -1,1 +1,1 @@
-# practice-of-numerical-computation-with-Python
+# Practice of Numerical Computation with Python
