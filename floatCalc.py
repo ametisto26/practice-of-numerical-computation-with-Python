@@ -5,7 +5,7 @@ math module
 import math
 
 a = input('非負の数 a = ')
-b = input('非負の数 b = ')
+b = input('正の数 b = ')
 a, b = float(a), float(b)
 
 print('a + b = ', a + b)
