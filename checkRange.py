@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Aug  1 08:47:39 2023
+実験用
 """
 
 result = ""
