@@ -2,7 +2,7 @@
 """
 assignment 5-1
 """
-import math
+#import math
 import numpy as np
 
 def naiseki(a,b):
